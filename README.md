@@ -1,1 +1,2 @@
 # frontend-2-teine-tund
+avasin githubi ja lgisin sinna sisse tegin seal uue faili kopisin lingi ning käsuga git clone lisasin lingi ning tõmbasin siia arvutisse. Githubi käsud võtsin eelmise tunni materjalisr. väsinud ja ei jaksa rohkem aga sain aru nüüd githubi kasutamisest aru..
